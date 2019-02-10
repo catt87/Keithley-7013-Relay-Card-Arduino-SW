@@ -3,9 +3,6 @@
 
 
 
-
-
-
 #include <string.h>
 
 #define Data         8  // Shift Register Data In
